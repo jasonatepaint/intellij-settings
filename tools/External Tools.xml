@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="coffee-compile-in-place" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="coffee" />
+      <option name="PARAMETERS" value="--nodejs --debug --output ./ --compile --map ./ " />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

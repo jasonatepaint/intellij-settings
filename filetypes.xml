@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="cm_remind_scheduled_meeting" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
