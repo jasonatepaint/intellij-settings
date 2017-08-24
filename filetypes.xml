@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" type="JSP" />
+      <mapping pattern="appTypes" type="JavaScript" />
       <mapping pattern="PullRequestList" type="JavaScript" />
       <mapping pattern="cm_remind_scheduled_meeting" type="PLAIN_TEXT" />
       <mapping ext="overrides" type="PLAIN_TEXT" />
