@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="hsbc-*" type="CoffeeScript" />
+      <mapping pattern="extract-payments" type="CoffeeScript" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tag" type="HTML" />
       <removed_mapping ext="tag" type="JSP" />
