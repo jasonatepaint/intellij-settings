@@ -7,6 +7,7 @@
       <mapping pattern="extract-payments" type="CoffeeScript" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping ext="tag" type="HTML" />
+      <mapping ext="ejs" type="HTML" />
       <removed_mapping ext="tag" type="JSP" />
       <mapping pattern="appTypes" type="JavaScript" />
       <mapping pattern="PullRequestList" type="JavaScript" />
