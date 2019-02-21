@@ -5,14 +5,19 @@
       <mapping pattern="hsbc-*" type="CoffeeScript" />
       <mapping pattern="tmf-*" type="CoffeeScript" />
       <mapping pattern="tango" type="CoffeeScript" />
+      <mapping pattern="email-cm-payment-rejected" type="CoffeeScript" />
       <mapping pattern="extract-payments" type="CoffeeScript" />
       <mapping ext="ejs" type="HTML" />
-      <mapping pattern="PullRequestList" type="JavaScript" />
       <mapping pattern="appTypes" type="JavaScript" />
+      <mapping pattern="PullRequestList" type="JavaScript" />
       <mapping pattern="cm_remind_scheduled_meeting" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="overrides" type="PLAIN_TEXT" />
+      <removed_mapping pattern="email-cm-payment-rejected" approved="true" type="JavaScript" />
+      <removed_mapping pattern="$USER_HOME$/dev/nodePaymentProcessor/bin/*" approved="true" type="JavaScript" />
+      <removed_mapping pattern="*/nodePaymentProcessor/bin/*" approved="true" type="JavaScript" />
+      <removed_mapping pattern="bin/*" approved="true" type="JavaScript" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
