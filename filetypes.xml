@@ -1,20 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="hsbc-*" type="CoffeeScript" />
       <mapping pattern="tmf-*" type="CoffeeScript" />
-      <mapping pattern="extract-payments" type="CoffeeScript" />
       <mapping pattern="tango" type="CoffeeScript" />
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping ext="tag" type="HTML" />
+      <mapping pattern="extract-payments" type="CoffeeScript" />
       <mapping ext="ejs" type="HTML" />
-      <removed_mapping ext="tag" type="JSP" />
-      <mapping pattern="appTypes" type="JavaScript" />
       <mapping pattern="PullRequestList" type="JavaScript" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="appTypes" type="JavaScript" />
       <mapping pattern="cm_remind_scheduled_meeting" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="overrides" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
