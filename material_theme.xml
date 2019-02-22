@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="highlightColor" value="80cbc4" />
+    <option name="isWizardShown" value="true" />
     <option name="accentColor" value="80cbc4" />
-    <option name="wallpaper" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-extended/master/src/main/resources/themes/wall.jpg,60,60" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="276138fd:16915f80896:-7fff" />
+    <option name="version" value="3.5.0.1" />
   </component>
 </application>
